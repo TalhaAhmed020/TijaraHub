@@ -1,0 +1,123 @@
+{
+  "demo": {
+    "lang": "Arabic",
+    "description": "نقطة البداية لمشروعك التالي مستندة إلى MUI. التخصيص السهل يساعدك على بناء التطبيقات بشكل أسرع وأفضل."
+  },
+  "Discover whats new": "اكتشف ما هو جديد",
+  "with our latest": "مع أحدث",
+  "Collection": "تشكيلة لدينا",
+  "Explore our hand-picked selection of the latest trends and must-have items. \nFind your perfect style, today.": "استكشف مجموعتنا المختارة بعناية من أحدث الصيحات والقطع الأساسية.\nاعثر على أسلوبك المثالي اليوم.",
+  "Trusted by 160+ happy customers": "موثوق بنا من قبل 160+ عميل سعيد",
+  "Shop Now": "تسوق الآن",
+  "Loading Categories...": "تحميل الفئات...",
+  "Explore our sports range": "استكشف مجموعتنا الرياضية",
+  "Shop by": "تسوق حسب",
+  "Categories": "الفئات",
+  "testimonials": "الشهادات",
+  "Excellent quality footballs and equipment! Our team has been using their gear for the entire season. The footballs maintain their shape perfectly and the goalkeeper gloves provide amazing grip. Highly recommend for any serious team!": "كرة قدم ومعدات ذات جودة ممتازة! لقد استخدم فريقنا معداتهم طوال الموسم. تحافظ كرات القدم على شكلها تمامًا وتوفر قفازات حارس المرمى قبضة مذهلة. نوصي بها بشدة لأي فريق جاد!",
+  "Amazing custom team uniforms! They perfectly matched our design requirements and the quality of the fabric is outstanding. The whole team looks professional and feels comfortable during matches.": "زي رسمي مخصص للفريق مذهل! لقد تطابقوا تمامًا مع متطلبات التصميم الخاصة بنا وجودة القماش رائعة. يبدو الفريق بأكمله احترافيًا ويشعر بالراحة أثناء المباريات.",
+  "Top-notch boxing gloves! Great padding, excellent durability, and comfortable fit. I've been training for months with these and they still look and feel brand new. Worth every penny!": "قفازات ملاكمة من الطراز الرفيع! حشوة رائعة، متانة ممتازة، ومقاس مريح. لقد كنت أتدرب بهذه القفازات لأشهر وما زالت تبدو وكأنها جديدة تمامًا. تستحق كل قرش!",
+  "Outstanding customer service! They helped us customize our team tracksuits exactly as we wanted. Fast delivery and the quality exceeded our expectations. Will definitely order again!":"خدمة عملاء متميزة! لقد ساعدونا في تخصيص بدلات التدريب لفريقنا بالضبط كما أردنا. توصيل سريع والجودة فاقت توقعاتنا. سنطلب منهم مرة أخرى بالتأكيد!",
+  "The goalkeeper gloves are fantastic! Perfect grip in all weather conditions and excellent wrist support. My son feels much more confident in goal with these gloves.":"قفازات حارس المرمى رائعة! قبضة مثالية في جميع الظروف الجوية ودعم ممتاز للمعصم. يشعر ابني بثقة أكبر بكثير في المرمى بهذه القفازات.",
+  "Great variety of accessories! The head ribbons, wrist bands, and socks are all high quality. Perfect for our youth team and the kids love the bright colors.":"مجموعة رائعة من الملحقات! أشرطة الرأس، وأربطة المعصم، والجوارب كلها ذات جودة عالية. مثالية لفريق الشباب لدينا ويحب الأطفال الألوان الزاهية.",
+  "The sports shirts and trousers are incredibly comfortable and durable. After dozens of training sessions and matches, they still look great. The breathable fabric is perfect for intense workouts.":"القمصان والسراويل الرياضية مريحة ومتينة بشكل لا يصدق. بعد عشرات الدورات التدريبية والمباريات، ما زالت تبدو رائعة. النسيج القابل للتنفس مثالي للتدريبات المكثفة.",
+  "Impressed with their customization service! They created exactly what our club needed - unique designs with our logo and colors. Professional quality at reasonable prices.":"أعجبت بخدمة التخصيص لديهم! لقد قاموا بإنشاء ما يحتاجه نادينا بالضبط - تصاميم فريدة بشعارنا وألواننا. جودة احترافية بأسعار معقولة.",
+  "What our customers":" ماذا يقول عملاؤنا",
+  "say...":"...",
+  "Product Quality":"جودة المنتج",
+  "Custom Uniforms":"أزياء/ملابس موحدة مخصصة",
+  "Boxing Equipment":"معدات الملاكمة",
+  "Customer Service":"خدمة العملاء",
+  "Goalkeeper Equipment":"معدات حارس المرمى",
+  "Team Accessories":"ملحقات الفريق",
+  "Sportswear Quality":"جودة الملابس الرياضية",
+  "Custom Orders":"طلبات مخصصة",
+  "Orders delivered":"الطلبات المسلّمة",
+  "Happy athletes":"رياضيون سعداء",
+  "Review rate":"معدل التقييم",
+  "contact": {
+    "bulkHeadingLine1": "هل تحتاج إلى تقديم",
+    "bulkHeadingLine2": "طلب بكميات كبيرة؟",
+    "bulkHeadingAction": "اتصل بنا",
+    "bulkDescription": "هل تخطط لطلب كبير لفريقك أو مؤسستك؟ يقدم فريق المبيعات المتخصص لدينا أسعارًا خاصة وخدمة مبسطة. تواصل معنا عبر البريد الإلكتروني أو الهاتف أدناه."
+  },
+  "cart": {
+    "caption": "اختياراتك",
+    "title": "سلة",
+    "title_gradient": "التسوق",
+    "empty_title": "سلة التسوق فارغة",
+    "empty_description": "أضف بعض المنتجات للبدء!",
+    "continue_shopping": "مواصلة التسوق",
+    "order_summary": "ملخص الطلب",
+    "subtotal": "المجموع الفرعي",
+    "total": "الإجمالي",
+    "checkout": "إتمام عملية الشراء",
+    "remove": "حذف"
+  },
+  "order": {
+    "caption": "إدارة الطلبات",
+    "title": "إتمام",
+    "title_gradient": "الطلب",
+    "summary_title": "ملخص الطلب",
+    "quantity": "الكمية",
+    "total_amount": "إجمالي المبلغ",
+    "empty_cart": "سلة التسوق فارغة",
+    "empty_desc": "أضف بعض المنتجات إلى سلتك قبل إتمام الطلب",
+    "continue_shopping": "مواصلة التسوق",
+    "success_msg": "تم تقديم الطلب بنجاح! تاريخ التوصيل:",
+    "full_name": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "contact": "رقم التواصل",
+    "contact_helper": "يجب أن يبدأ بـ 5 ويتكون من 9 أرقام",
+    "address": "عنوان الشحن",
+    "delivery_date": "تاريخ التوصيل",
+    "delivery_helper": "سيتم التوصيل خلال أسبوع من اليوم",
+    "notes": "ملاحظات إضافية",
+    "notes_placeholder": "أي تعليمات خاصة أو ملاحظات (اختياري)",
+    "place_btn": "إتمام الطلب",
+    "errors": {
+      "name": "الاسم مطلوب",
+      "email": "صيغة البريد الإلكتروني غير صحيحة",
+      "email_req": "البريد الإلكتروني مطلوب",
+      "contact_req": "رقم التواصل مطلوب",
+      "contact_start": "رقم التواصل يجب أن يبدأ بـ 5",
+      "contact_len": "رقم التواصل يجب أن يكون 9 أرقام",
+      "contact_digits": "رقم التواصل يجب أن يحتوي على أرقام فقط",
+      "address": "عنوان الشحن مطلوب"
+    }
+  },
+
+
+  "cancel_view": {
+    "title": "تم إلغاء",
+    "title_gradient": "الطلب",
+    "subtitle": "لم تكتمل عملية الدفع الخاصة بك.",
+    "description": "يبدو أن عملية الدفع قد توقفت أو تم إلغاؤها. لم يتم خصم أي مبالغ من حسابك. إذا واجهت مشكلة، يرجى المحاولة مرة أخرى أو التواصل مع فريق الدعم.",
+    "btn_home": "العودة للرئيسية"
+  },
+
+  "thank_you": {
+    "title": "شكراً لك على",
+    "title_gradient": "طلبك!",
+    "subtitle": "تمت عملية الدفع بنجاح.",
+    "description": "لقد استلمنا طلبك ونقوم بتجهيزه للشحن الآن. تم إرسال رسالة تأكيد إلى بريدك الإلكتروني.",
+    "button": "العودة للرئيسية"
+  },
+
+  "product_details": {
+    "not_selected": "لم يتم اختيار منتج. يرجى العودة إلى المتجر.",
+    "new": "جديد",
+    "reviews": "تقييمات",
+    "delivery": "التوصيل",
+    "description": "الوصف",
+    "key_features": "الميزات الرئيسية",
+    "specifications": "المواصفات",
+    "quantity": "الكمية",
+    "add_to_cart": "أضف إلى السلة",
+    "tags": "الوسوم",
+    "section_caption": "تفاصيل المنتج",
+    "section_title": "رياضة مميزة",
+    "section_gradient": "معدات"
+  }
+ 
+}

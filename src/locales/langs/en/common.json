@@ -1,0 +1,96 @@
+{
+  "demo": {
+    "lang": "English",
+    "description": "The starting point for your next project is based on MUI. Easy customization helps you build apps faster and better."
+  },
+   "contact": {
+    "bulkHeadingLine1": "Need to place a",
+    "bulkHeadingLine2": "bulk order?",
+    "bulkHeadingAction": "Contact us",
+    "bulkDescription": "Planning a large order for your team or organization? Our dedicated sales team offers special pricing and streamlined service. Reach out via email or phone below."
+  },
+  "cart": {
+    "caption": "Your Selection",
+    "title": "Shopping",
+    "title_gradient": "Cart",
+    "empty_title": "Your cart is empty",
+    "empty_description": "Add some items to get started!",
+    "continue_shopping": "Continue Shopping",
+    "currency": "SAR",
+    "order_summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove"
+  },
+  "order": {
+    "caption": "Order Management",
+    "title": "Place Your",
+    "title_gradient": "Order",
+    "summary_title": "Order Summary",
+    "quantity": "Quantity",
+    "total_amount": "Total Amount",
+    "currency": "SAR",
+    "empty_cart": "Your cart is empty",
+    "empty_desc": "Add some items to your cart before placing an order",
+    "continue_shopping": "Continue Shopping",
+    "success_msg": "Order placed successfully! Delivery date:",
+    "full_name": "Full Name",
+    "email": "Email Address",
+    "contact": "Contact Number",
+    "contact_helper": "Must start with 5 and be exactly 9 digits",
+    "address": "Shipping Address",
+    "delivery_date": "Delivery Date",
+    "delivery_helper": "Delivery will be made one week from today",
+    "notes": "Additional Notes",
+    "notes_placeholder": "Any special instructions or notes (optional)",
+    "place_btn": "Place Order",
+    "errors": {
+      "name": "Name is required",
+      "email": "Invalid email format",
+      "email_req": "Email is required",
+      "contact_req": "Contact number is required",
+      "contact_start": "Contact number must start with 5",
+      "contact_len": "Contact number must be exactly 9 digits",
+      "contact_digits": "Contact number must contain only digits",
+      "address": "Shipping address is required"
+    }
+  },
+
+
+  "cancel_view": {
+    "title": "Order",
+    "title_gradient": "Cancelled",
+    "subtitle": "Your transaction was not completed.",
+    "description": "It looks like the payment process was interrupted or cancelled. No charges were made to your account. If you encountered an error, please try again or contact our support team.",
+    "btn_home": "Back to Home"
+  },
+
+
+  "thank_you": {
+    "title": "Thank you for your",
+    "title_gradient": "Order!",
+    "subtitle": "Your transaction was successful.",
+    "description": "We’ve received your order and are getting it ready for shipment. A confirmation email has been sent to your inbox.",
+    "button": "Back to Home"
+  },
+
+  "product_details": {
+    "not_selected": "No product selected. Please return to the shop.",
+    "new": "NEW",
+    "reviews": "reviews",
+    "delivery": "Delivery",
+    "description": "Description",
+    "key_features": "Key Features",
+    "specifications": "Specifications",
+    "quantity": "Quantity",
+    "add_to_cart": "Add to Cart",
+    "tags": "Tags",
+    "section_caption": "Product Details",
+    "section_title": "Premium Sports",
+    "section_gradient": "Equipment"
+  },
+  "common": {
+    "currency": "SAR."
+  }
+}
